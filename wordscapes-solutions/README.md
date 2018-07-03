@@ -1,4 +1,4 @@
-# Wordscapes
+# wordscapes-solutions
 
 ## Description
 
